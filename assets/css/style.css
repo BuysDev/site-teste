@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+div {
+    width: 100%;
+    height: 350px;
+    background-color: navy;
+    display: block;
+    background-image: url('https://img.freepik.com/vetores-gratis/fundo-hexagonal-escuro-com-cor-gradiente_79603-1409.jpg?w=2000');
+}
+
+h1 {
+    color: whitesmoke;
+    padding-top: 153px;
+    padding-left: 35%;
+
+    font-size: 38px;
+    text-shadow: 1.6px 3px rgba(0, 0, 0, 0.6);
+}
