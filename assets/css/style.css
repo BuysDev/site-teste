@@ -14,10 +14,21 @@ div {
 }
 
 h1 {
-    color: whitesmoke;
     padding-top: 153px;
     padding-left: 35%;
 
+    color: whitesmoke;
     font-size: 38px;
     text-shadow: 1.6px 3px rgba(0, 0, 0, 0.6);
+}
+
+main {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+main img,
+#p1,
+#main-text {
+    margin-top: 20px;
 }
