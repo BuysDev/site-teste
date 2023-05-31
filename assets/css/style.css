@@ -29,6 +29,15 @@ main {
 
 main img,
 #p1,
-#main-text {
+.main-text {
     margin-top: 20px;
+}
+
+main img {
+    margin-left: 0;
+    margin-left: 20%;
+}
+
+#p1, .main-text {
+    line-height: 20px;
 }
