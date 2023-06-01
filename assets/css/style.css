@@ -47,3 +47,54 @@ main img {
     height: 250px;
     background-color: rgb(146, 145, 145);
 }
+
+.footer-box .ajuste{
+    width: 90%;
+    height: auto;
+    float: left;
+    display: block;
+    margin-left: 5%;
+    display: flex;
+    margin-top: 30px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.caixa1, .caixa2 {
+    width: 33%;
+}
+
+.caixa3 {
+    width: 32%;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+button {
+    padding: 6px;
+    border: 0;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    font-weight: bold;
+    cursor: pointer;
+    transition: .3s ease;
+}
+
+.caixa3 button {
+    margin-left: 12%;
+}
+
+.caixa1 button {
+    margin-left: 14%;
+}
+
+.caixa2 button {
+    margin-left: 25%;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
