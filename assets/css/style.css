@@ -99,3 +99,11 @@ button:hover {
     background-color: black;
     color: white;
 }
+
+.caixa1 img,
+.caixa2 img {
+    width: 0;
+    height: 0;
+    width: 240px;
+    height: 114px;
+}
