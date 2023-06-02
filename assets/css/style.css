@@ -73,6 +73,7 @@ main img {
 }
 
 button {
+    margin-top: 20px;
     padding: 6px;
     border: 0;
     border: 2px solid black;
